@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://askwi.github.io/fWB/sitemap.fWB.gz
